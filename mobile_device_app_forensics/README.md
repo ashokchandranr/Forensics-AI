@@ -26,6 +26,7 @@ These notebooks focus on whether to preserve additional device snapshots, subpoe
 1. **[07_media_gallery_exfiltration_detection.ipynb](07_media_gallery_exfiltration_detection.ipynb)**: Use AI/ML to make media gallery exfiltration detection more auditable, faster, and easier to operationalize.
 1. **[08_contact_graph_social_pattern_clustering.ipynb](08_contact_graph_social_pattern_clustering.ipynb)**: Use AI/ML to make contact graph social pattern clustering more auditable, faster, and easier to operationalize.
 1. **[09_battery_network_forensic_correlation.ipynb](09_battery_network_forensic_correlation.ipynb)**: Use AI/ML to make battery network forensic correlation more auditable, faster, and easier to operationalize.
+1. **[10_police_call_transcript_intent_analysis.ipynb](10_police_call_transcript_intent_analysis.ipynb)**: Use AI/ML to make police call transcript intent analysis more auditable, faster, and easier to operationalize.
 
 ## Standards and References
 
