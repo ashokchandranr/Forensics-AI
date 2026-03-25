@@ -4,7 +4,7 @@ Practical AI/ML notebooks for forensics and investigative use cases.
 
 Forensics-AI is a notebook-first repository for investigators, security researchers, and data scientists who want to understand how artificial intelligence can be applied across digital artifacts, network traffic, malware analysis, cloud infrastructure, financial crime, identity verification, and adjacent forensic domains.
 
-The repository currently includes **96 notebooks** across **10 topic collections** and is explicitly benchmarked against the breadth of `Energy-AI` while enforcing a stricter notebook contract through local audits and CI.
+The repository currently includes **97 notebooks** across **10 topic collections** and is explicitly benchmarked against the breadth of `Energy-AI` while enforcing a stricter notebook contract through local audits and CI.
 
 ## Quality Contract
 
@@ -24,7 +24,7 @@ The repository currently includes **96 notebooks** across **10 topic collections
 | [digital_file_artifact_analytics](digital_file_artifact_analytics/) | File-system, endpoint, and metadata evidence triage for anti-forensics and deleted-content recovery. | 12 |
 | [network_traffic_intrusion_analytics](network_traffic_intrusion_analytics/) | Traffic, flow, and protocol analytics for intrusion triage, lateral movement, and exfiltration hunting. | 10 |
 | [malware_behavior_classification](malware_behavior_classification/) | Static, dynamic, and execution-sequence analytics for malware family, loader, and anti-analysis detection. | 10 |
-| [mobile_device_app_forensics](mobile_device_app_forensics/) | Call, app, geospatial, and device-state analytics for mobile-centric investigations. | 9 |
+| [mobile_device_app_forensics](mobile_device_app_forensics/) | Call, app, geospatial, and device-state analytics for mobile-centric investigations. | 10 |
 | [cloud_infrastructure_audit_forensics](cloud_infrastructure_audit_forensics/) | Identity, audit, and control-plane analytics for cloud compromise, drift, and storage misuse. | 10 |
 | [multimedia_forgery_deepfake_detection](multimedia_forgery_deepfake_detection/) | Image, audio, video, and document authenticity workflows for manipulated-media investigations. | 9 |
 | [financial_fraud_money_laundering_analytics](financial_fraud_money_laundering_analytics/) | Payments, entity, and transaction-network analytics for fraud, mule activity, and laundering typologies. | 8 |
